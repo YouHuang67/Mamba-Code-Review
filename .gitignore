@@ -78,11 +78,6 @@
 *.tui
 *.tuo
 
-# Output document
-*.pdf
-# But keep the pdf files in a specific folder
-!specific/folder/*.pdf
-
 # Exclude editor directories
 /.idea/
 /.vscode/
